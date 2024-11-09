@@ -58,3 +58,6 @@
 [submodule "pack/cedarvim/start/fzf"]
 	path = pack/cedarvim/start/fzf
 	url = https://github.com/junegunn/fzf.git
+[submodule "pack/cedarvim/start/copilot.vim"]
+	path = pack/cedarvim/start/copilot.vim
+	url = https://github.com/github/copilot.vim.git
